@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "エルガイム - Time for L-GAIM -",
+  "base_artist": "MIO",
+  "createdAt": "2026-04-01T11:50:44.166111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エルガイム〜TIME FOR L-GAIM〜",
+      "artist": "MIQ",
+      "has_synced": false,
+      "path": "select/01_エルガイム〜TIME_FOR_L-GAIM〜_MIQ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エルガイム –Time for L‐GAIM–",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/02_エルガイム_–Time_for_L‐GAIM–_MIO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エルガイム -Time for L-GAIM-",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/03_エルガイム_-Time_for_L-GAIM-_Various.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エルガイム - Time for L-GAIM -",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/04_エルガイム_-_Time_for_L-GAIM_-_MIO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エルガイム -Time for L-GAIM-",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/05_エルガイム_-Time_for_L-GAIM-_MIO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エルガイム ーTime for L-GAIMー",
+      "artist": "MIO",
+      "has_synced": false,
+      "path": "select/pl_01_エルガイム_ーTime_for_L-GAIMー_MIO.txt"
+    }
+  ]
+}
